@@ -1,2 +1,5 @@
 
 .ipynb_checkpoints/Pneumonia Classification with Computer Vision-checkpoint.ipynb
+chest_xray/test/.DS_Store
+chest_xray/test/NORMAL/.DS_Store
+chest_xray/train/.DS_Store
